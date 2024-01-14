@@ -17,10 +17,12 @@
 ## How to Contribute
     N/A
 ## Screenshot
-    ![Employee-Tracker](./Assets/workday-screenshot.png)
+    ![Employee-Tracker](./Assets/Screenshot%20(22).png)
 ## Video link
     https://drive.google.com/file/d/1m_hIGP3S6hlz9erTS0yOfXBvUH0am6m9/view?usp=drive_link
 ## Features
     Users can add Employees, Users can add a role.
+## GitHub Repo
+    https://github.com/RyanPersaud03/employee-tracker
 ## Questions
-https://github.com/RyanPersaud03?tab=repositories
+N/A
