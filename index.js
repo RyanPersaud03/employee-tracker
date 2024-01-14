@@ -6,12 +6,7 @@ const db = require('./connection');
 db.connect(err => {
     if (err) throw err;
     console.log('DataBase Connected!');
-    // company_db
 })
-
-
-
-
 
 // Define a function named 'employee_tracker'
 var employee_tracker = function () {
