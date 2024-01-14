@@ -7,7 +7,7 @@
 ## Instructions
     Run the Application by opening index.js in terminal and run node index.js. Scroll through list of options using arrow keys and click enter to select one 
 ## Usage
-     A command-line application made to help manage a Company's Empoyee DataBase.
+     A command-line application made to help manage a company's employee database.
 ## Test
     N/A
 ## Credits
@@ -17,7 +17,7 @@
 ## How to Contribute
     N/A
 ## Screenshot
-    ![Employee-Tracker](./Assets/employeeTracker.png)
+    ![employeetracker](./Assets/employeetracker.png)
 ## Video link
     https://drive.google.com/file/d/1m_hIGP3S6hlz9erTS0yOfXBvUH0am6m9/view?usp=drive_link
 ## Features
