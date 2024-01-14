@@ -17,7 +17,7 @@
 ## How to Contribute
     N/A
 ## Screenshot
-    ![Employee-Tracker](./Assets/Screenshot%20(22).png)
+    ![Employee-Tracker](./Assets/employeeTracker.png)
 ## Video link
     https://drive.google.com/file/d/1m_hIGP3S6hlz9erTS0yOfXBvUH0am6m9/view?usp=drive_link
 ## Features
